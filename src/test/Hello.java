@@ -17,10 +17,15 @@ public class Hello {
 
 	}
 	
+	public static void db() {
+		System.out.println("dk");
+	}
+	
 	public static void main(String[] args) {
 		dk();
 		dk1();
 		dk2();
+		db();
 
 		
 	}
